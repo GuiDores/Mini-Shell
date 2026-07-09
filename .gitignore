@@ -1,0 +1,7 @@
+# Executáveis
+*.exe
+mini_shell
+
+# Pastas de compilação e objetos
+obj/
+*.o
